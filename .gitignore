@@ -1,5 +1,7 @@
 .idea
-/public/assets
+/public/assets/admin
+/public/assets/shop/css
+/public/assets/shop/js
 /public/css
 /public/js
 /public/media

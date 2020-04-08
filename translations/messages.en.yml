@@ -21,7 +21,7 @@ sylius:
         user_registration:
             start_shopping: 'Start shopping'
             subject: 'User registration'
-            welcome_to_our_store: 'Welcome to our store!'
+            welcome_to_our_store: 'Welcome to Slosarek store!'
             you_have_just_been_registered: 'You have just been registered. Thank you'
         verification_token:
             hello: 'Hello'
@@ -35,12 +35,12 @@ sylius:
                            After over 10 years of experience in architecture, she decided to devote herself to design and transmit the soul of a big city into everyday items.
 
                            Her forms made of concrete are inspired by the modernist approach to creating, making the urban style, functionality, and elegance in simplicity the main assets of slosarek.eu.'
-        brace_yoursel_winter_is_coming: 'Brace yourself! Winter is coming'
+        brace_yoursel_winter_is_coming: 'Concrete art for your interior designs'
         newsletter: 'Newsletter'
         newsletter_description: 'Subscribe to receive a weekly newsletter with our latest designs'
         subscribe: 'Subscribe'
     lightbox:
-        image_album_label: 'Image %1 of %2'
+        image_album_label: 'Concrete design photo %1 of %2'
     menu:
         shop:
             account:

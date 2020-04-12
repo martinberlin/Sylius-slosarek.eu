@@ -1,8 +1,9 @@
 .idea
 /public/assets/admin
-/public/assets/shop/css
+/public/assets/shop/css/style.css
+/public/assets/shop/css/style.css.map
 /public/assets/shop/js
-/public/css
+/public/css/
 /public/js
 /public/media
 !/public/media/image/.gitkeep

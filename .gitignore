@@ -1,4 +1,5 @@
 .idea
+.env
 /public/assets/admin
 /public/assets/shop/css/style.css
 /public/assets/shop/css/style.css.map

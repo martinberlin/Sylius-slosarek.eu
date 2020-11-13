@@ -253,3 +253,21 @@ sylius_theme:
             scan_depth: 1
             directories:
                 - "%kernel.project_dir%/themes"
+
+#Override Homepage
+sylius_ui:
+    events:
+        sylius.shop.homepage:
+            blocks:
+                banner:
+                    template: "@SyliusShop/Homepage/_banner.html.twig"
+                    priority: 60
+                latest_products:
+                    template: "@SyliusShop/Homepage/_latestProducts.html.twig"
+                    priority: 50
+                #                newsletter:
+                #                    template: "@SyliusShop/Homepage/_newsletter.html.twig"
+                #                    priority: 30
+                about_us:
+                    template: "@SyliusShop/Homepage/_aboutUs.html.twig"
+                    priority: 10

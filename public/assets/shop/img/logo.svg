@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 600 176"
-   height="176mm"
-   width="600mm"
+   viewBox="0 0 300.00001 70"
+   height="70mm"
+   width="300mm"
    sodipodi:docname="logo.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,17 +23,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
      id="namedview1032"
      showgrid="false"
      inkscape:zoom="0.35101389"
-     inkscape:cx="1140.0789"
-     inkscape:cy="446.55403"
-     inkscape:window-x="0"
+     inkscape:cx="628.70313"
+     inkscape:cy="440.85625"
+     inkscape:window-x="60"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     units="mm" />
   <defs
      id="defs2" />
   <metadata
@@ -44,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,7 +53,7 @@
      aria-label="slosarek.eu"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.41114756;stroke-miterlimit:4;stroke-dasharray:none"
      id="text821"
-     transform="matrix(1.2342075,0,0,1.2342075,-33.343969,-29.804291)">
+     transform="matrix(0.62125646,0,0,0.62125646,-12.30744,-21.467326)">
     <path
        d="m 61.28922,86.249541 q -0.5715,1.04775 -1.762125,1.04775 -0.714375,0 -1.61925,-0.523875 -0.904875,-0.523875 -2.238375,-1.143 -1.285875,-0.66675 -3.095625,-1.190625 -1.80975,-0.5715 -4.28625,-0.5715 -2.143125,0 -3.857625,0.5715 -1.7145,0.523875 -2.95275,1.476375 -1.190625,0.9525 -1.857375,2.238375 -0.619125,1.23825 -0.619125,2.714625 0,1.857375 1.04775,3.095625 1.095375,1.23825 2.8575,2.143125 1.762125,0.904875 4.0005,1.61925 2.238375,0.66675 4.572,1.476375 2.38125,0.762 4.619625,1.714499 2.238375,0.9525 4.0005,2.38125 1.762125,1.42875 2.809875,3.52425 1.095375,2.04788 1.095375,4.953 0,3.33375 -1.190625,6.19125 -1.190625,2.80988 -3.52425,4.90538 -2.333625,2.04787 -5.715,3.2385 -3.381375,1.19062 -7.8105,1.19062 -5.04825,0 -9.144,-1.61925 -4.09575,-1.66687 -6.95325,-4.23862 l 2.00025,-3.2385 q 0.381,-0.61913 0.904875,-0.9525 0.523875,-0.33338 1.381125,-0.33338 0.85725,0 1.80975,0.66675 0.9525,0.66675 2.286,1.47638 1.381125,0.80962 3.286125,1.47637 1.952625,0.66675 4.85775,0.66675 2.4765,0 4.333875,-0.61912 1.857375,-0.66675 3.095625,-1.76213 1.23825,-1.09537 1.80975,-2.52412 0.619125,-1.42875 0.619125,-3.048 0,-2.00025 -1.095375,-3.28613 -1.04775,-1.3335 -2.809875,-2.23837 -1.762125,-0.9525 -4.048125,-1.61925 -2.238375,-0.71438 -4.619625,-1.47638 -2.333625,-0.762 -4.619625,-1.7145 -2.238375,-1.00012 -4.0005,-2.4765 -1.762125,-1.476374 -2.8575,-3.619499 -1.04775,-2.19075 -1.04775,-5.286375 0,-2.76225 1.143,-5.286375 1.143,-2.57175 3.33375,-4.47675 2.19075,-1.952625 5.381625,-3.095625 3.190875,-1.143 7.286625,-1.143 4.7625,0 8.524875,1.524 3.81,1.476375 6.57225,4.09575 z"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.25px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#b3b3b3;stroke-width:0.41114756;stroke-miterlimit:4;stroke-dasharray:none"
@@ -112,7 +113,8 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot1038"
-     style="fill:black;fill-opacity:1;stroke:none;font-family:Asap;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Asap;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Asap;-inkscape-font-specification:Asap;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(0,-106.00001)"><flowRegion
        id="flowRegion1040"><rect
          id="rect1042"
          width="108.25783"

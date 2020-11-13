@@ -1,1 +1,8 @@
 /*custom css*/
+img.ui.image {
+    display:block;
+    width: 50%;
+}
+#menu {
+    background-color: #eeeeee;
+}

@@ -20,7 +20,8 @@
         "sylius/mailer-bundle": "^1.5",
         "sylius/sylius": "~1.7.0@rc",
         "symfony/dotenv": "^4.4",
-        "symfony/flex": "^1.2"
+        "symfony/flex": "^1.2",
+        "gregwar/captcha-bundle": "2.1.4"
     },
     "require-dev": {
         "behat/behat": "^3.6.1",

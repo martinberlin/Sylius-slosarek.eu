@@ -33,3 +33,8 @@ services:
     App\Controller\:
         resource: '../src/Controller'
         tags: ['controller.service_arguments']
+
+    app.form.extension.type.customer_registration:
+        class: App\Bundle\CoreBundle\Form\Type\CustomerSimpleRegistrationType
+        tags:
+            - { name: form.type_extension, extended_type: Sylius\Bundle\CoreBundle\Form\Type\Customer\CustomerRegistrationType }

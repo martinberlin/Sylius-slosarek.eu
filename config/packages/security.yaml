@@ -12,6 +12,7 @@ security:
             id: sylius.shop_user_provider.email_or_name_based
     encoders:
         Sylius\Component\User\Model\UserInterface: auto
+        argon2i: bcrypt
     firewalls:
         admin:
             switch_user: true

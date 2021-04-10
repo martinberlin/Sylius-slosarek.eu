@@ -21,7 +21,8 @@
         "sylius/sylius": "~1.7.0@rc",
         "symfony/dotenv": "^4.4",
         "symfony/flex": "^1.2",
-        "gregwar/captcha-bundle": "2.1.4"
+        "gregwar/captcha-bundle": "2.1.4",
+        "mollie/polyfill-libsodium": "1.1.1"
     },
     "require-dev": {
         "behat/behat": "^3.6.1",

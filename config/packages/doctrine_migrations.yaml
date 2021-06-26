@@ -1,5 +1,11 @@
 doctrine_migrations:
-    dir_name: "%kernel.project_dir%/src/Migrations"
-
+    storage:
+        table_storage:
+            table_name: migration_versions
     # Namespace is arbitrary but should be different from App\Migrations as migrations classes should NOT be autoloaded
-    namespace: DoctrineMigrations
+    namespace: App\Migrations
+    dir_name: "%kernel.project_dir%/vendor/sylius/paypal-plugin/migrations"
+
+# OLD Config:
+    #dir_name: "%kernel.project_dir%/src/Migrations"
+    #namespace: DoctrineMigrations
